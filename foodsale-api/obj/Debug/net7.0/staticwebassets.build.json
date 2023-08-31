@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VzMMogCmFBOLB+0CIxQa4cwmy/M8Hhvx1iJ0SIyumYM=",
+  "Source": "foodsale-api",
+  "BasePath": "_content/foodsale-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
